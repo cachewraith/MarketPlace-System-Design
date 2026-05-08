@@ -1,4 +1,4 @@
-# HushStore Marketplace Backend Database Design
+#  Marketplace Backend Database Design
 
 ## 1. Project Overview
 
